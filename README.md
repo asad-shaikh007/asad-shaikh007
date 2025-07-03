@@ -2,6 +2,10 @@
 
 ### 💻 Full Stack Developer | PHP | Laravel | CodeIgniter | React | Node.js | Web Services | AWS
 
+![Profile Views](https://komarev.com/ghpvc/?username=asad-shaikh007&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/asad-shaikh007?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/asad-shaikh007?style=social)
+
 🚀 Passionate about building scalable web applications and APIs using modern technologies.
 
 ---
