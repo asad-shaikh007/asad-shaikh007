@@ -35,12 +35,13 @@
 
 ---
 
-- **🛠️Tooling & Workflow:**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-CC092F?style=for-the-badge&logo=zoho&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-blueviolet?style=for-the-badge)
+- **🛠️Tooling & Workflow:**  
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Zoho](https://img.shields.io/badge/Zoho-CC092F?style=for-the-badge&logo=zoho&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-blueviolet?style=for-the-badge)
+
 
 ---
 
