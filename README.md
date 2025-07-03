@@ -38,23 +38,6 @@
 
 ---
 
----
-
-## 💼 Professional Experience
-
-![Years of Experience](https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge)
-
-| 🏢 Company               | 👨‍💻 Role                 | 📅 Duration       | 🔧 Tech Stack                    |
-|-------------------------|----------------------------|------------------|----------------------------------|
-| ABC Technologies        | Senior PHP Developer       | 2021 – Present   | Laravel, AWS, React              |
-| XYZ Solutions           | Full Stack Developer       | 2018 – 2021      | CodeIgniter, Vue.js, MySQL       |
-| WebInnovators Pvt Ltd   | Junior Web Developer       | 2016 – 2018      | Core PHP, jQuery, HTML, CSS      |
-
-🧠 **Domain Expertise:**  
-E-commerce, Government Portals, Custom CMS, API Integrations, Cloud Services (AWS & GCP), Web Security
-
----
-
 ## 🌟 Featured Projects
 
 - 🔗 [MyBharat](#) — Government Initiative Portal 
