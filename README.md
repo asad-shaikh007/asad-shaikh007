@@ -12,8 +12,8 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
   Laravel, CodeIgniter, CakePHP, Yii ⭐️⭐️⭐️⭐️⭐️
 
-- **⚙️ Core PHP Applications:**
-  Custom CMS, LMS, E-commerce Solutions ⭐️⭐️⭐️⭐️⭐️ 
+- **⚙️ Core PHP Applications:**  
+  Custom CMS, LMS, E-commerce Solutions ⭐️⭐️⭐️⭐️⭐️
 
 - **⚙️ Web & Backend:**  
   PHP, Python, Node.js, Express.js, RESTful APIs, React.js ⭐️⭐️⭐️⭐️⭐️
