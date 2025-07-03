@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/asad-shaikh007/asad-shaikh007/blob/main/assets/banner-image.png?raw=true" alt="Asad Shaikh GitHub Banner" />
+</p>
+
 # 👋 Hello, I'm Asad Shaikh
 
 ### 💻 Full Stack Developer | PHP | Laravel | CodeIgniter | React | Node.js | Web Services | AWS
