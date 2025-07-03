@@ -18,8 +18,8 @@
 - **⚙️ Web & Backend:**  
   PHP, Python, Node.js, Express.js, RESTful APIs, React.js ⭐️⭐️⭐️⭐️⭐️
 
-- **⚙️ Web Services:**
-  API Integration & Implementation ⭐️⭐️⭐️⭐️⭐️ 
+  - **⚙️ Web Services:**  
+    API Integration & Implementation ⭐️⭐️⭐️⭐️⭐️
 
 - **🧪 Testing & QA:**  
   PHPUnit, Postman, Swagger ⭐️⭐️⭐️⭐️⭐️ 
