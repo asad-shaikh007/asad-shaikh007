@@ -47,8 +47,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asad7223&show_icons=true&theme=tokyonight" alt="Asad's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asad7223&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asad-shaikh007&show_icons=true&theme=tokyonight" alt="Asad's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asad-shaikh007&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
