@@ -33,6 +33,13 @@
 - **🎨 Frontend & UI:**  
   HTML5, CSS3, Bootstrap, JavaScript Animations, React ⭐️⭐️⭐️⭐️⭐️ 
 
+---
+
+- **🛠️Tooling & Workflow:**  
+Jira, Zoho, RabbitMQ, Redis, Git, GitHub Actions, CI/CD Pipelines, Agile & Scrum Methodologies
+
+---
+
 - **🛡️ Hosting & Control Panels:**  
   cPanel, Plesk, WHM
 
