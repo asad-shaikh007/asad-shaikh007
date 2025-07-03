@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Asad Shaikh 
-### 🚀 PHP | Laravel | CodeIgniter | Yii | React | NodeJs | AWS.
+### 🚀 PHP | Laravel | CodeIgniter | Yii | React | NodeJs | Web Services | AWS.
 
 ---
 
@@ -7,6 +7,7 @@
 
 - **PHP Frameworks:** Laravel, CodeIgniter, CakePHP, Yii ⭐️⭐️⭐️⭐️⭐️  
 - **Core PHP Applications:** Custom CMS, LMS, E-commerce ⭐️⭐️⭐️⭐️⭐️  
+- **Web Services:** API Integration & Implementation ⭐️⭐️⭐️⭐️⭐️ 
 - **JavaScript:** Node.js, React ⭐️⭐️⭐️⭐️  
 - **DevOps:** Docker, Kubernetes ⭐️⭐️⭐️⭐️⭐️  
 - **Cloud:** AWS, Google Cloud ⭐️⭐️⭐️⭐️⭐️  
