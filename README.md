@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Asad Shaikh
 
-### 💻 Full Stack Developer | PHP | Laravel | CodeIgniter | React | Node.js | AWS
+### 💻 Full Stack Developer | PHP | Laravel | CodeIgniter | React | Node.js | Web Services | AWS
 
 🚀 Passionate about building scalable web applications and APIs using modern technologies.
 
@@ -10,23 +10,28 @@
 
 - **💡 Languages & Frameworks:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-  Laravel, CodeIgniter, CakePHP, Yii  
-  Custom CMS, LMS, E-commerce Solutions
+  Laravel, CodeIgniter, CakePHP, Yii ⭐️⭐️⭐️⭐️⭐️
+
+- **⚙️ Core PHP Applications:**
+  Custom CMS, LMS, E-commerce Solutions ⭐️⭐️⭐️⭐️⭐️ 
 
 - **⚙️ Web & Backend:**  
-  Node.js, Express.js, RESTful APIs, React.js
+  PHP, Python, Node.js, Express.js, RESTful APIs, React.js ⭐️⭐️⭐️⭐️⭐️
+
+- **⚙️ Web Services:**
+  API Integration & Implementation ⭐️⭐️⭐️⭐️⭐️ 
 
 - **🧪 Testing & QA:**  
-  PHPUnit, Postman, Swagger
+  PHPUnit, Postman, Swagger ⭐️⭐️⭐️⭐️⭐️ 
 
 - **💾 Databases:**  
-  MySQL, SQL Server, DataTables
+  MySQL, SQL Server, DataTables ⭐️⭐️⭐️⭐️⭐️ 
 
 - **☁️ DevOps & Cloud:**  
-  AWS, Google Cloud, Docker
+  AWS, Google Cloud, Docker ⭐️⭐️⭐️⭐️⭐️ 
 
 - **🎨 Frontend & UI:**  
-  HTML5, CSS3, Bootstrap, JavaScript Animations
+  HTML5, CSS3, Bootstrap, JavaScript Animations, React ⭐️⭐️⭐️⭐️⭐️ 
 
 - **🛡️ Hosting & Control Panels:**  
   cPanel, Plesk, WHM
@@ -35,7 +40,7 @@
 
 ## 🌟 Featured Projects
 
-- 🔗 [MyBharat](#) — Government Initiative Portal *(Add project description or live link if available)*
+- 🔗 [MyBharat](#) — Government Initiative Portal 
 
 ---
 
@@ -53,7 +58,7 @@
 - 📧 Email: [asad7223@gmail.com](mailto:asad7223@gmail.com)  
 - 💼 LinkedIn: [Asad Shaikh](https://linkedin.com/in/asad-shaikh-215373159/)  
 - 🌐 Portfolio: *(Add if available)*  
-- 🧑‍💻 GitHub: [@asad7223](https://github.com/asad7223)
+- 🧑‍💻 GitHub: [@asad7223](https://github.com/asad-shaikh007)
 
 ---
 
