@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/asad-shaikh007/asad-shaikh007/blob/main/assets/banner-image.png?raw=true" alt="Asad Shaikh GitHub Banner" />
+  <img src="https://github.com/asad-shaikh007/asad-shaikh007/blob/main/assets/banner-image.png?raw=true" style="width:100% !important; height:250px; !important;" alt="Asad Shaikh GitHub Banner" />
 </p>
 
 # 👋 Hello, I'm Asad Shaikh
