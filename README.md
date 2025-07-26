@@ -77,7 +77,7 @@
 
 - 📧 Email: [asad7223@gmail.com](mailto:asad7223@gmail.com)  
 - 💼 LinkedIn: [Asad Shaikh](https://linkedin.com/in/asad-shaikh-215373159/)  
-- 🌐 Portfolio: *(Add if available)*  
+- 🌐 Portfolio: https://asadshaikh.in/  
 - 🧑‍💻 GitHub: [@asad7223](https://github.com/asad-shaikh007)
 
 ---
